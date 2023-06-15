@@ -1,0 +1,5 @@
+print("Hello, World")
+print("welcome to new vision institute of technology")
+print("Hello faith angela")
+print("Hello, World")
+print("Hello faith angela you look very pretty")
